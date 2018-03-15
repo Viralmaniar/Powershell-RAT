@@ -5,7 +5,9 @@ This RAT will help someone during red team engagements to backdoor any Windows m
 
 <B>Note: This piece of code is Fully UnDetectable (FUD) by Anti-Virus (AV) software. </B>
 
-<B><I>This project must not be used for illegal purposes, or for hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.</I></B>
+<B><I>This project must not be used for illegal purposes or for hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.</I></B>
+
+Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
 # Screenshot
 On the first run of the `Powershell-RAT` user will get options as below:
