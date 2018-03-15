@@ -59,7 +59,12 @@ pip install pyinstaller
 
 - Press 8: This option performs all of the above with a single button `press 8` on a keyboard. Attacker will receive an email every `5 minutes` with screenshots as an email attachment. Screenshots will be deleted after `12 minutes`
 
-- Press 9: Exit gracefully from the program or press `Contrl+C`
+- Press 9: Exit gracefully from the program or press `Control+C`
+
+# Questions?
+
+Twitter: https://twitter.com/maniarviral
+LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Contribution & License
 
