@@ -26,6 +26,15 @@ Data exfiltrated as an email attachement using Gmail
 
 ![image](https://user-images.githubusercontent.com/3501170/37453864-233384d0-288d-11e8-8699-e5dbe149925c.png)
 
+# My Windows machine do not have Python installed, what should I do?
+
+- Compile `PowershellRAT.py` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
+
+- PyInstaller is available on PyPI. You can install it through pip:
+
+<pre>
+pip install pyinstaller
+</pre>
 
 # Setup
 - Throwaway Gmail email address
