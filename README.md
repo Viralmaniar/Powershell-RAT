@@ -5,6 +5,20 @@ This RAT will help someone during red team engagements to backdoor any Windows m
 
 <B>Note: This piece of code is Fully UnDetectable (FUD) by Anti-Virus (AV) software. </B>
 
+# Screenshot
+On the first run of the `Powershell-RAT` user will get options as below:
+![image](https://user-images.githubusercontent.com/3501170/37453784-e926b64a-288c-11e8-9c8d-abaaf1b7dd3d.png)
+
+- Using `Hail Mary` option to backdoor a Windows machine
+![image](https://user-images.githubusercontent.com/3501170/37453816-fdfffaea-288c-11e8-9a60-0adcd0dc4599.png)
+
+- Sucessfully taking screenshots of the user activity
+![image](https://user-images.githubusercontent.com/3501170/37453833-0c7f3e78-288d-11e8-969e-5499cf53f2fd.png)
+
+- Data exfiltrated as an email attachement using Gmail
+![image](https://user-images.githubusercontent.com/3501170/37453864-233384d0-288d-11e8-8699-e5dbe149925c.png)
+
+
 # Setup
 - Throwaway Gmail email address
 - Enable "Allow less secure apps" by going to https://myaccount.google.com/lesssecureapps
