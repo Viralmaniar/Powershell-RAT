@@ -35,12 +35,12 @@ def logo():
 OPTIONS = '''
 1. Set Execution Policy to Unrestricted
 2. Take screen shot
-3. Schedule a task to for screen shots
+3. Schedule a task to take screen shots
 4. Extract data via email
 5. Schedule a task for data ex-filtration
 6. Delete screen shots
 7. Schedule a task to delete screen shots
-8. Hail Mary: Backdoor in a second.
+8. Hail Mary: Quick backdoor
 9. Exit
 '''
 
@@ -125,7 +125,7 @@ cmds = {
 	"4" : cmd_sendMail,
 	"5" : cmd_MailTaskScheduler,
 	"6" : cmd_deleteScreenShot,
-	"7"	: cmd_deleteTaskScheduler,
+	"7" : cmd_deleteTaskScheduler,
 	"8" : cmd_HailMary,
 	"9" : lambda: sys.exit(0)
 }
