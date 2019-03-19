@@ -9,6 +9,11 @@ This RAT will help someone during red team engagements to backdoor any Windows m
 
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
+# RAT Architecture Diagram
+
+![image](https://user-images.githubusercontent.com/3501170/54605214-dd51f400-4a9c-11e9-8b51-a225b13ecd0d.png)
+
+
 # Screenshot
 On the first run of the `Powershell-RAT` user will get options as below:
 
