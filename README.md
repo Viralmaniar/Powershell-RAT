@@ -42,9 +42,9 @@ pip install pyinstaller
 </pre>
 
 # Setup
-- Throwaway Gmail email address
+- Throwaway Gmail address
 - Enable "Allow less secure apps" by going to https://myaccount.google.com/lesssecureapps
-- Modify the `$username` & `$password` variable for your account in the `Mail.ps1` Powershell file
+- Modify the `$username` & `$password` variables for your account in the `Mail.ps1` Powershell file
 - Modify `$msg.From` & `$msg.To.Add` with throwaway gmail address
 
 # How do I use this?
@@ -79,4 +79,6 @@ Want to contribute? Please fork it and hit up with a pull request.
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
 # To Do
-- Get keyboard strokes
+- Get keyboard strokes (Will be available in April)
+- Get photos from front camera
+- Record mic
