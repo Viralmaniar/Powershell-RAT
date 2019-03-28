@@ -1,3 +1,7 @@
+############################################################################
+# Sending email with attachments
+#############################################################################
+
 #Connection Details
 $username="throwawaygmailaccountaddress@gmail.com"
 $password="VeryStr0ngP@$$w0rd!"
