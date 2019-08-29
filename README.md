@@ -79,6 +79,6 @@ Want to contribute? Please fork it and hit up with a pull request.
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
 # To Do
-- Get keyboard strokes (Will be available in April)
+- Encrypted exfil over Gmail to defeat SSL inspection
 - Get photos from front camera
 - Record mic
